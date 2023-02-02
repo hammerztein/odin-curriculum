@@ -1,1 +1,1 @@
-First Website using Odin-Project, Git and Github.
+This repository contains all projects for THe Odin Project curriculum.
