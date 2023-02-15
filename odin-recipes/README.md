@@ -1,1 +1,1 @@
-Recipes exercise fro The Odin Project curriculum.
+Recipes exercise for The Odin Project curriculum.
