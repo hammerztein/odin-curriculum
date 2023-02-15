@@ -1,1 +1,1 @@
-This repository contains all projects for THe Odin Project curriculum.
+This repository contains all projects for The Odin Project curriculum.
